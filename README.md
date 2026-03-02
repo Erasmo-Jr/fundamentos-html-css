@@ -1,17 +1,14 @@
-# Fundamentos de HTML e CSS
+# Fundamentos HTML e CSS
 
-Este repositório reúne projetos e exercícios práticos desenvolvidos para consolidar conhecimentos em HTML5 e CSS3.
+Repositório com exercícios e práticas de fundamentos de HTML5 e CSS3.
 
-## 📚 Conteúdos abordados
+## Tecnologias
+HTML5 • CSS3
 
-- Estruturação semântica
-- Tags HTML5
-- CSS3
-- Flexbox
-- Responsividade
-- Organização de layout
-- Boas práticas de estilização
+## Objetivo
+Consolidar a base de front-end com práticas de estruturação semântica e estilização básica.
 
-## 🎯 Objetivo
-
-Desenvolver interfaces modernas, organizadas e responsivas como base para aplicações Full Stack.
+## 📚 O que eu aprendi
+- Marcação semântica com HTML5
+- Estilização com CSS3
+- Estruturação de layout simples
